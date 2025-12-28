@@ -5,10 +5,10 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 ## Nasıl Çalışır?
 
 - İncelenen uygulamalar bir liste olarak burada paylaşılır.
-- Her uygulama için `/detay` klasöründe detaylı bir inceleme dosyası bulunur.
+- Her uygulama için `/detail` klasöründe detaylı bir inceleme dosyası bulunur.
 - Detay dosyası her uygulama için aşağıdaki formatta hazırlanır.
 
-## Örnek Liste
+## Ugulamalar
 
 - [Pixspire - Pixel Art](detail/pixspire.md)
 
