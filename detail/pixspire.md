@@ -16,6 +16,7 @@ Bariz bir sorun karşılaşmadım.
 
 ## Teknik Görüş
 
+- Cizim yaptigimiz ekranda safe area sorunu var bottom alanda kalan kisimlar oluyor
 - Login olmadan girebilmem lazım. Database yapısını ve loginsiz giriş dahil edilmeli
 - Yapılan design larda 0 kalp var bu düzeltilmeli
 - Profile da like ve gönderilere gidilemiyor.
