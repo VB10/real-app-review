@@ -1,4 +1,5 @@
 # Pixspire
+<img height="400" alt="Screenshot 2025-12-28 at 12 54 23" src="https://github.com/user-attachments/assets/0bdc6bc8-deeb-432d-8052-6ac1ecb8e212" />
 
 - **App adı:** Pixspire | Pixel Art
 - **App url:** [https://play.google.com/store/apps/details?id=com.pixspire]
