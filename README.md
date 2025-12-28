@@ -10,8 +10,8 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 
 ## Örnek Liste
 
-- [Uygulama 1](detay/uygulama1.md)
-- [Uygulama 2](detay/uygulama2.md)
+- [Pixspire - Pixel Art](detail/pixspire.md)
+
 
 ## Katkıda Bulunmak
 
