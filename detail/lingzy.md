@@ -8,6 +8,7 @@
 
 ## Genel Görüş
 - Akış çok iyi tertemiz olmuş
+- App ismine Lingzy - Learn english! gibi yapılsa daha iyi olur.
 - Genel olarak asistan olarak kelime öğrenme olarak güzel
 - Renk seti yormuyor ondan dolayı başarılı
 - Uygulamanın işlevleri amaca uygun yeterli.
