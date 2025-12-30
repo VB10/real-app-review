@@ -3,7 +3,7 @@
 
 - **App adı:** LINGZY
 - **App url:** [https://play.google.com/store/apps/details?id=com.lingzy.app&hl=tr]
-- **Developer** [https://www.instagram.com/nzm.cmn]
+- **Developer** [https://www.instagram.com/nazim.cmn]
 - **App size** 10mb
 
 ## Genel Görüş
