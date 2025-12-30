@@ -11,6 +11,7 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 ## Ugulamalar
 
 - [Pixspire - Pixel Art](detail/pixspire.md)
+- [Lingzy](detail/lingzy.md)
 
 
 ## Katkıda Bulunmak
