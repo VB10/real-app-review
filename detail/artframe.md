@@ -1,5 +1,8 @@
 # Lingzy
-<img height="400" height="341" alt="image" src="https://github.com/user-attachments/assets/896ead8f-047e-4145-9bc0-3e22fc573d73" />
+<img height="400"  alt="image" src="https://github.com/user-attachments/assets/896ead8f-047e-4145-9bc0-3e22fc573d73" />
+
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/44813120-ff07-4baa-8dbc-966360c12353" />
+
 
 - **App adı:** ArtFrame
 - **App url:** [https://play.google.com/store/apps/details?id=com.esmanureral.artframe]
