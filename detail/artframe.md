@@ -1,4 +1,4 @@
-# Lingzy
+# ArtFrame
 
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/44813120-ff07-4baa-8dbc-966360c12353" />
 
