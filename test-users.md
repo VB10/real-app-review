@@ -15,7 +15,7 @@ Aşağıdaki tabloya adınızı ve iletişim bilgilerinizi (isteğe bağlı mail
 | Sıra | İsim           | E-Posta  |
 |------|----------------|---------------------------------------|
 | 1    | Veli Bacik             |   velibacik60@gmail.com (Google Play Android)                                    |
-| 2    |                |                                       |
+| 2    | Tahsin Emre Telli               | tahsinemre1903@gmail.com (Google Play Android)                                      |
 | 3    |                |                                       |
 | ...  |                |                                       |
 | 20   |                |                                       |
