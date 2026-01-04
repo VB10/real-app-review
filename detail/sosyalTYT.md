@@ -4,7 +4,7 @@
 
 - **App adı:** SosyalTYT
 - **App url:** [https://play.google.com/store/apps/details?id=com.cenkeraydin.tytsosyal]
-- **Developer** [https://www.instagram.com/canker_ayd]
+- **Developer** [https://www.instagram.com/cenker_ayd]
 - **App size** 22mb
 
 ## Genel Görüş
