@@ -12,6 +12,8 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 
 - [Pixspire - Pixel Art](detail/pixspire.md)
 - [Lingzy](detail/lingzy.md)
+- [ArtFrame](detail/artframe.md)
+- [SosyalTYT](detail/sosyalTYT.md)
 
 
 ## Katkıda Bulunmak
