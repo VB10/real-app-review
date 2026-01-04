@@ -1,11 +1,10 @@
 # SosyalTYT
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/44813120-ff07-4baa-8dbc-966360c12353" />
-
+<img height="400" alt="Screenshot 2026-01-04 at 11 01 29" src="https://github.com/user-attachments/assets/fd899a04-d7f8-434a-b847-34abed25cafd" />
 
 - **App adı:** SosyalTYT
 - **App url:** [https://play.google.com/store/apps/details?id=com.cenkeraydin.tytsosyal]
-- **Developer** [https://www.instagram.com/esmanureral]
+- **Developer** [https://www.instagram.com/canker_ayd]
 - **App size** 22mb
 
 ## Genel Görüş
