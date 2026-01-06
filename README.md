@@ -14,6 +14,7 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [Lingzy](detail/lingzy.md)
 - [ArtFrame](detail/artframe.md)
 - [SosyalTYT](detail/sosyalTYT.md)
+- [PickChamp](detail/pickchamp.md)
 
 
 ## Katkıda Bulunmak
