@@ -15,6 +15,7 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [ArtFrame](detail/artframe.md)
 - [SosyalTYT](detail/sosyalTYT.md)
 - [PickChamp](detail/pickchamp.md)
+- [MindMate](detail/mindmate.md)
 
 
 ## Katkıda Bulunmak
