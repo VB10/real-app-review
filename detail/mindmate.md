@@ -1,6 +1,6 @@
 # MindMate [Open source]
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/72c223f3-7168-4879-8989-fd57ab710158" />
+<img height="400" alt="image" alt="image" src="https://github.com/user-attachments/assets/49daddc4-97a9-4979-89ca-af37abac20c2" />
 
 - **App adı:** MindMate
 - **App url Google Play:** [https://play.google.com/store/apps/details?id=com.ipekozsasilar.flutter_mindmate_project]
