@@ -16,6 +16,7 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [SosyalTYT](detail/sosyalTYT.md)
 - [PickChamp](detail/pickchamp.md)
 - [MindMate](detail/mindmate.md)
+- [Anlio](detail/anlio.md)
 
 
 ## Katkıda Bulunmak
