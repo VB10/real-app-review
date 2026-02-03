@@ -1,6 +1,6 @@
 # Anlio | YKS Soru Defterim
 
-<img height="400" alt="Screenshot 2026-01-04 at 11 01 29" src="https://github.com/user-attachments/assets/fd899a04-d7f8-434a-b847-34abed25cafd" />
+<img height="400" alt="Screenshot 2026-01-04 at 11 01 29" src="https://github.com/user-attachments/assets/2213c86f-f3f0-4f78-84ae-8b875e3963b3" />
 
 
 - **App adı:** Anlio | YKS Soru Defterim
