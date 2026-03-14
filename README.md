@@ -17,6 +17,7 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [PickChamp](detail/pickchamp.md)
 - [MindMate](detail/mindmate.md)
 - [Anlio](detail/anlio.md)
+- [BiGör](detail/bigor.md)
 
 
 ## Katkıda Bulunmak
