@@ -20,6 +20,8 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [BiGör](detail/bigor.md)
 - [Hairmatic](detail/hairmatic.md)
 - [Cartoon Weather](detail/cartoon-weather.md)
+- [BlockNova](detail/blocknova.md)
+- [CepEksper](detail/cepeksper.md)
 
 
 ## Katkıda Bulunmak
