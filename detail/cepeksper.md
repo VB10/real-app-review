@@ -3,7 +3,7 @@
 <img height="400" alt="CepEksper App" src="{SCREENSHOT_URL}" />
 
 - **App adı:** CepEksper - Telefon Değerleme
-- **App size:** {APP_SIZE}mb
+- **App size:** 42.3 mb
 - **App url:** [https://apps.apple.com/tr/app/cepeksper-telefon-de%C4%9Ferleme/id6760019956?l=tr]
 - **Web url:** [https://cepeksper.com.tr/]
 - **Developer:** [https://github.com/arifshn]
