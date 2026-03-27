@@ -1,6 +1,6 @@
 # CepEksper
 
-<img height="400" alt="CepEksper App" src="{SCREENSHOT_URL}" />
+<img height="400" alt="CepEksper App" src="https://github.com/user-attachments/assets/a702babe-5b73-4c7b-b4c5-5844a02da3e5" />
 
 - **App adı:** CepEksper - Telefon Değerleme
 - **App size:** 42.3 mb
