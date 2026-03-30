@@ -23,7 +23,7 @@ Uygulamayı geliştirirken modern teknolojiler ve kullanıcı dostu bir tasarım
 
 ## 🧪 Test ve Giriş Bilgileri (Önemli!)
 Uygulama kampüs güvenliği gereği öğrenci e-postası ile çalışmaktadır. İnceleme sırasında sorun yaşamamanız için:
-* Eğer bir öğrenci e-postasına sahip değilseniz, **aktif olarak kullandığınız bir e-posta adresini bana iletirseniz** sisteme giriş izninizi (whitelist) manuel olarak tanımlayabilirim. 
+* Eğer bir öğrenci e-postasına sahip değilseniz, sisteme giriş izninizi (whitelist) tanımlayabilmem için, **aktif olarak kullandığınız e-posta adresini `onurcanmsik@gmail.com` adresine göndermeniz** yeterlidir. Lütfen gizliliğiniz için e-posta adresinizi PR yorumu gibi herkese açık alanlarda paylaşmayın.
 * Bu sayede uygulamayı tüm özellikleriyle test edebilirsiniz.
 
 ## 💡 Neden İncelemelisin?
