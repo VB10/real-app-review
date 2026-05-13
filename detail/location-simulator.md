@@ -1,6 +1,8 @@
 # Location Simulator — Mock GPS
 
-<img height="400" alt="Location Simulator App" src="TODO_SCREENSHOT_URL" />
+<img height="400" alt="Location Simulator App" src="https://github.com/user-attachments/assets/4c3a96ff-c3cc-4b09-88d5-db5cafa405ca" />
+
+
 
 - **App adı:** Location Simulator — Mock GPS
 - **App size:** 11 mb
