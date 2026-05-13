@@ -1,6 +1,7 @@
 # Mekan Go
 
-<img height="400" alt="Mekan Go App" src="TODO_SCREENSHOT_URL" />
+<img height="400" alt="Mekan Go App" src="https://github.com/user-attachments/assets/44ac020f-2e0c-4970-b921-104309e781da" />
+
 
 - **App adı:** Mekan Go
 - **App size:** 8.5 mb
