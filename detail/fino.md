@@ -1,6 +1,6 @@
 # Fino
 
-<img height="400" alt="Fino App" src="https://github.com/user-attachments/assets/24bb53e9-24bf-4fa9-9ec8-a35fe1ed366c" />
+<img height="400" alt="Fino App" src="https://github.com/user-attachments/assets/19c5f7ae-a6b2-4051-b02a-bc3441aee3c0" />
 
 
 - **App adı:** Fino: Speak & Learn Languages
