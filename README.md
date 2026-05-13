@@ -22,6 +22,9 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [Cartoon Weather](detail/cartoon-weather.md)
 - [BlockNova](detail/blocknova.md)
 - [CepEksper](detail/cepeksper.md)
+- [Location Simulator — Mock GPS](detail/location-simulator.md)
+- [Fino](detail/fino.md)
+- [Mekan Go](detail/mekan-go.md)
 
 
 ## Katkıda Bulunmak
