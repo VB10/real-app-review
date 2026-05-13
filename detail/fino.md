@@ -1,6 +1,7 @@
 # Fino
 
-<img height="400" alt="Fino App" src="TODO_SCREENSHOT_URL" />
+<img height="400" alt="Fino App" src="https://github.com/user-attachments/assets/24bb53e9-24bf-4fa9-9ec8-a35fe1ed366c" />
+
 
 - **App adı:** Fino: Speak & Learn Languages
 - **App size:** 99.9 mb
