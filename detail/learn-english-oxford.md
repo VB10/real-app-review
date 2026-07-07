@@ -1,9 +1,9 @@
 # Learn English | OXFORD 4000+
 
-<img height="400" alt="Learn English OXFORD 4000+ App" src="https://github.com/user-attachments/assets/PLACEHOLDER" />
+<img height="400" alt="Learn English OXFORD 4000+ App" src="https://github.com/user-attachments/assets/3d9d0da4-1d58-469f-b5c2-15576ff38dee" />
 
 - **App adı:** Learn English | OXFORD 4000+
-- **App size:** -mb
+- **App size:** 12 mb
 - **App url:** [https://play.google.com/store/apps/details?id=app.ahmetylmzzz.words](https://play.google.com/store/apps/details?id=app.ahmetylmzzz.words)
 - **Developer** [https://www.instagram.com/ahmet.ylmzzz/](https://www.instagram.com/ahmet.ylmzzz/) - [https://www.linkedin.com/in/ahmeeet/](https://www.linkedin.com/in/ahmeeet/)
 - **Platform:** Google Play (Android)
