@@ -1,6 +1,6 @@
 # KPSS Haritası: Coğrafya Quiz
 
-<img height="400" alt="KPSS Haritası Coğrafya Quiz App" src="https://github.com/user-attachments/assets/PLACEHOLDER" />
+<img height="400" alt="KPSS Haritası Coğrafya Quiz App" src="https://github.com/user-attachments/assets/4a79e359-cbf4-4031-9156-46de40ec57d5" />
 
 - **App adı:** KPSS Haritası: Coğrafya Quiz
 - **App size:** 28mb
