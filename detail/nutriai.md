@@ -1,9 +1,9 @@
 # NutriAI
 
-<img height="400" alt="NutriAI App" src="https://github.com/user-attachments/assets/PLACEHOLDER" />
+<img height="400" alt="NutriAI App" src="https://github.com/user-attachments/assets/b606a5de-aa0a-475c-8684-ab619f12cb03" />
 
 - **App adı:** NutriAI
-- **App size:** -mb
+- **App size:** 46.6 mb
 - **App url:** [https://apps.apple.com/app/id6762797499](https://apps.apple.com/app/id6762797499)
 - **Developer** [https://github.com/MuhittinDayan](https://github.com/MuhittinDayan)
 - **Platform:** App Store (iOS)
