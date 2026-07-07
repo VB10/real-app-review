@@ -23,6 +23,11 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [Learn English | OXFORD 4000+](detail/learn-english-oxford.md)
 - [NutriAI](detail/nutriai.md)
 - [KPSS Haritası: Coğrafya Quiz](detail/kpss-haritasi.md)
+- [BlockNova](detail/blocknova.md)
+- [CepEksper](detail/cepeksper.md)
+- [Location Simulator — Mock GPS](detail/location-simulator.md)
+- [Fino](detail/fino.md)
+- [Mekan Go](detail/mekan-go.md)
 
 
 ## Katkıda Bulunmak

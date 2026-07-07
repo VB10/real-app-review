@@ -1,9 +1,10 @@
 # Hairmatic
 
-<img height="400" alt="Hairmatic App" src="https://github.com/user-attachments/assets/PLACEHOLDER" />
+<img height="400" alt="Hairmatic App" src="https://github.com/user-attachments/assets/d0f3f3da-3560-43ea-b1c7-e24d54d26823" />
+
 
 - **App adı:** Hairmatic - AI Hair Styler
-- **App size:** -
+- **App size:** 30.7mb
 - **App url:** [https://apps.apple.com/app/hairmatic-ai-hair-styler/id6755653243]
 - **Developer** [https://github.com/aliosmanozturk1]
 - **Platform:** iOS

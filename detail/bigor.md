@@ -1,6 +1,5 @@
 # BiGör
-
-<img height="400" alt="BiGör App" src="https://github.com/user-attachments/assets/PLACEHOLDER" />
+<img height="400" alt="BiGör App"  src="https://github.com/user-attachments/assets/60d89e54-4f28-4eb4-80e5-d591e1dd8292" />
 
 - **App adı:** BiGör
 - **App size:** 20mb

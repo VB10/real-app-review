@@ -1,9 +1,9 @@
 # Cartoon Weather
 
-<img height="400" alt="Cartoon Weather App" src="https://github.com/user-attachments/assets/PLACEHOLDER" />
+<img height="400" alt="Cartoon Weather App" src="https://github.com/user-attachments/assets/30151421-6ddf-458f-85cd-917a78cbd2e2" />
 
 - **App adı:** Cartoon Weather - Fun Forecast
-- **App size:** -
+- **App size:** 30mb
 - **App url:** [https://apps.apple.com/tr/app/cartoon-weather-fun-forecast/id6757344541]
 - **Developer** [https://www.linkedin.com/in/enesgunumdogdu/]
 - **Platform:** iOS
