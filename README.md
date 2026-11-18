@@ -28,6 +28,11 @@ Bu proje, App Store ve Google Play'de bulunan uygulamaları incelemek amacıyla 
 - [Location Simulator — Mock GPS](detail/location-simulator.md)
 - [Fino](detail/fino.md)
 - [Mekan Go](detail/mekan-go.md)
+- [APEX](detail/apex.md)
+- [Fastinance - Para Ustası](detail/fastinance.md)
+- [BiDua](detail/bidua.md)
+- [İslam 365](detail/islam-365.md)
+- [Solo Test](detail/solo-test.md)
 
 
 ## Katkıda Bulunmak
